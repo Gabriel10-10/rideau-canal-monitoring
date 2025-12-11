@@ -240,7 +240,7 @@ FROM Aggregates;
   - Format: `JSON` (line separated).  
 - Used for longer-term historical analysis and reporting.
 
-### Web Dashboard (Node.js/Express + Chart.js) – `[link to repo]`
+### Web Dashboard (Node.js/Express + Chart.js) 
 
 - Repository: `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
 - Backend (`index.js`):
