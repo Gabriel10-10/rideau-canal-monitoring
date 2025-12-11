@@ -8,7 +8,7 @@
 ## Repository Links
 
 ### 1. Main Documentation Repository
-- **URL:** https://github.com/Gabriel10-10/rideau-canal-monitoring
+- **URL:** 'https://github.com/Gabriel10-10/rideau-canal-monitoring'
 - **Description:** Complete project documentation, architecture, screenshots, and guides
 
 ### 2. Sensor Simulation Repository
