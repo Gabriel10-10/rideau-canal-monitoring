@@ -13,17 +13,15 @@ This README provides an overview of the scenario, architecture, implementation, 
 
 ## Student Information
 
-- **Student Name:** `<Your Name Here>`  
-- **Student ID:** `<Your Student ID>`  
+- **Student Name:** `DAMIS GABRIEL MANFOUO`  
+- **Student ID:** `041204270`  
 
 **Project Repositories:**
 
-- **Sensor Simulation Repository:** `<link-to-sensor-simulation-repo>`  
-- **Web Dashboard Repository:** `<link-to-web-dashboard-repo>`  
-- **Main Documentation Repository (this repo):** `<link-to-main-docs-repo>`  
-- **Live Dashboard Deployment:** `<https://your-dashboard-app.azurewebsites.net>`  
+- **Sensor Simulation Repository:** `https://github.com/Gabriel10-10/rideau-canal-sensor-simulation`  
+- **Web Dashboard Repository:** `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
+- **Main Documentation Repository:** `https://github.com/Gabriel10-10/rideau-canal-monitoring`    
 
-Replace the placeholders above with your actual name, student ID, Git repository URLs, and the live Azure App Service URL.
 
 ---
 
@@ -128,9 +126,9 @@ Other supporting components:
 
 ## Implementation Overview
 
-### IoT Sensor Simulation (Python) – `[link to repo]`
+### IoT Sensor Simulation (Python) 
 
-- Repository: `<link-to-sensor-simulation-repo>`  
+- Repository: `https://github.com/Gabriel10-10/rideau-canal-sensor-simulation`  
 - Implemented in Python using:
   - `azure-iot-device` for IoT Hub communication.  
   - `python-dotenv` for configuration.  
@@ -244,7 +242,7 @@ FROM Aggregates;
 
 ### Web Dashboard (Node.js/Express + Chart.js) – `[link to repo]`
 
-- Repository: `<link-to-web-dashboard-repo>`  
+- Repository: `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
 - Backend (`index.js`):
   - Uses `@azure/cosmos` to connect to Cosmos DB.  
   - Exposes REST APIs:
@@ -273,12 +271,10 @@ FROM Aggregates;
 
 ## Repository Links
 
-- **Sensor Simulation Repository:** `<link-to-sensor-simulation-repo>`  
-- **Web Dashboard Repository:** `<link-to-web-dashboard-repo>`  
-- **Main Documentation Repository (this repo):** `<link-to-main-docs-repo>`  
-- **Live Dashboard Deployment:** `<https://your-dashboard-app.azurewebsites.net>`  
+- **Sensor Simulation Repository:** `https://github.com/Gabriel10-10/rideau-canal-sensor-simulation`  
+- **Web Dashboard Repository:** `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
+- **Main Documentation Repository:** `https://github.com/Gabriel10-10/rideau-canal-monitoring`    
 
-Update these with your real links before submission.
 
 ---
 
@@ -291,9 +287,9 @@ Provide a short video (e.g., 5–10 minutes) showing:
 - The web dashboard updating in near real time as new data arrives.
 
 **Video link:**  
-`<https://your-video-link>` (YouTube, OneDrive, or similar)
+`https://www.youtube.com/watch?v=lksWEkeaYMA` 
 
-If allowed, you can also embed it in your LMS or documentation as appropriate.
+
 
 ---
 
@@ -357,9 +353,9 @@ For detailed, step-by-step setup, see the READMEs in:
 
 Include screenshots in a folder such as `screenshots/`, for example:
 
-- `screenshots/dashboard-overview.png` – full dashboard view with all cards and charts.  
-- `screenshots/stream-analytics-job.png` – Stream Analytics job running.  
-- `screenshots/cosmos-data-explorer.png` – sample 5-minute aggregate document.  
+- `screenshots/Dashboard deployed on Azure App Service.png` – full dashboard view with all cards and charts.  
+- `screenshots/Stream Analytic job in running state.png` – Stream Analytics job running.  
+- `screenshots/Cosmos DB with simple Document.png` – sample 5-minute aggregate document.  
 
 Describe what the screenshots show and how they demonstrate that the system works end-to-end.
 
@@ -417,17 +413,12 @@ You can add more project-specific challenges here if you encountered additional 
 
 ## AI Tools Disclosure
 
-If your instructor or institution requires disclosure of AI assistance, you can use this section.
-
-Example (adapt as needed):
-
 - I used **ChatGPT (OpenAI)** as a coding and documentation assistant for this project.  
 - AI assistance was used to:
   - Brainstorm architecture options and clarify Azure service roles.  
   - Help debug specific errors (e.g., Stream Analytics query issues, environment configuration).  
   - Draft and refine documentation (including this README and the component-specific READMEs).  
 - All final decisions about architecture, configuration, and code changes were reviewed and validated by me, and I performed all deployments and testing myself.
-
 
 ---
 
@@ -449,4 +440,4 @@ Example (adapt as needed):
 - Node.js and Express.js documentation  
 - Python and standard library documentation
 
-You can expand this list with any additional articles, tutorials, or references you used during the project.
+
