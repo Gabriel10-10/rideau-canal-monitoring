@@ -18,9 +18,9 @@ This README provides an overview of the scenario, architecture, implementation, 
 
 **Project Repositories:**
 
-- **Sensor Simulation Repository:** `https://github.com/Gabriel10-10/rideau-canal-sensor-simulation`  
-- **Web Dashboard Repository:** `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
-- **Main Documentation Repository:** `https://github.com/Gabriel10-10/rideau-canal-monitoring`    
+- **Sensor Simulation Repository:** https://github.com/Gabriel10-10/rideau-canal-sensor-simulation  
+- **Web Dashboard Repository:** https://github.com/Gabriel10-10/rideau-canal-dashboard  
+- **Main Documentation Repository:** https://github.com/Gabriel10-10/rideau-canal-monitoring    
 
 
 ---
@@ -128,7 +128,7 @@ Other supporting components:
 
 ### IoT Sensor Simulation (Python) 
 
-- Repository: `https://github.com/Gabriel10-10/rideau-canal-sensor-simulation`  
+- Repository: https://github.com/Gabriel10-10/rideau-canal-sensor-simulation  
 - Implemented in Python using:
   - `azure-iot-device` for IoT Hub communication.  
   - `python-dotenv` for configuration.  
@@ -242,7 +242,7 @@ FROM Aggregates;
 
 ### Web Dashboard (Node.js/Express + Chart.js) 
 
-- Repository: `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
+- Repository: https://github.com/Gabriel10-10/rideau-canal-dashboard  
 - Backend (`index.js`):
   - Uses `@azure/cosmos` to connect to Cosmos DB.  
   - Exposes REST APIs:
@@ -271,9 +271,9 @@ FROM Aggregates;
 
 ## Repository Links
 
-- **Sensor Simulation Repository:** `https://github.com/Gabriel10-10/rideau-canal-sensor-simulation`  
-- **Web Dashboard Repository:** `https://github.com/Gabriel10-10/rideau-canal-dashboard`  
-- **Main Documentation Repository:** `https://github.com/Gabriel10-10/rideau-canal-monitoring`    
+- **Sensor Simulation Repository:** https://github.com/Gabriel10-10/rideau-canal-sensor-simulation  
+- **Web Dashboard Repository:** https://github.com/Gabriel10-10/rideau-canal-dashboard 
+- **Main Documentation Repository:** https://github.com/Gabriel10-10/rideau-canal-monitoring    
 
 
 ---
@@ -287,7 +287,7 @@ Provide a short video (e.g., 5–10 minutes) showing:
 - The web dashboard updating in near real time as new data arrives.
 
 **Video link:**  
-`https://www.youtube.com/watch?v=lksWEkeaYMA` 
+https://www.youtube.com/watch?v=lksWEkeaYMA 
 
 
 
