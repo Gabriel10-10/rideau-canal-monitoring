@@ -11,11 +11,6 @@ This README provides an overview of the scenario, architecture, implementation, 
 
 ---
 
-## Student Information
-
-- **Student Name:** `DAMIS GABRIEL MANFOUO`  
-- **Student ID:** `041204270`  
-
 **Project Repositories:**
 
 - **Sensor Simulation Repository:** https://github.com/Gabriel10-10/rideau-canal-sensor-simulation  
